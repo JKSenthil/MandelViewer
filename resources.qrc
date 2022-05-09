@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>raymarch.vert</file>
+        <file>raymarch.frag</file>
+    </qresource>
+</RCC>

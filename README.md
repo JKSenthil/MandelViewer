@@ -1,5 +1,5 @@
 # MandelViewer
-![Fractal](https://github.com/JKSenthil/MandelViewer/blob/master/logo.png?raw=true)
+![Screenshot](logo.png)
 
 ## About 
 MandelViewer is a realtime, QT-based 3D fractal viewer and supports the following fractal types: 
@@ -24,7 +24,7 @@ The following tutorial assumes you've already installed QT Creator. First, clone
 ## User Guide 
 After launching MandelViewer, you will be created with a simple interface: 
 
-![Menu](https://github.com/JKSenthil/MandelViewer/blob/master/menu.png?raw=true)
+![Screenshot](menu.png)
 
 The left side of the menu contains various sliders and checkboxes for changing the appearance of 
 the fractal. The first block of controls changes the lighting for the scene: 
